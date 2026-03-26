@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Junior Front-end Developer at AAWZ Partners, focused on building modern, responsive, and user-friendly web interfaces. I work mainly with JavaScript and Vue.js, always aiming to deliver clean, well-structured, and maintainable code.<br><br>I enjoy turning ideas into real products and continuously improving my technical skills while learning best practices in front-end development, application architecture, and user experience. I have experience working in team environments, collaborating with designers and developers to create efficient and scalable solutions.<br><br>Beyond technical knowledge, I value communication, teamwork, adaptability, and proactivity. I am always open to learning, receiving feedback, and taking on new challenges that help me grow as a developer and as a professional.
 
 
