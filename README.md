@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Herik Rodrigues - Front-end Engineer" width="100%" />
+<img src="./assets/banner.svg" alt="Herik Trombetta Rodrigues - Front-end Engineer" width="100%" />
 
 <br/>
 
