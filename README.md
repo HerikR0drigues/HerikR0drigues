@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:1c1c20,100:3f3f46&height=220&section=header&text=Herik%20Rodrigues&fontSize=54&fontColor=fafafa&fontAlignY=40&desc=Front-end%20Engineer&descSize=20&descColor=a1a1aa&descAlignY=62" alt="Herik Rodrigues - Front-end Engineer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1800&color=A1A1AA&center=true&vCenter=true&width=640&height=40&lines=JavaScript+%C2%B7+TypeScript+%C2%B7+Vue+%C2%B7+React;Design+systems+%C2%B7+UI+%C2%B7+UX;Fast%2C+accessible+and+scalable+interfaces" alt="Typing intro" />
+<img src="./assets/banner.svg" alt="Herik Rodrigues - Front-end Engineer" width="100%" />
 
 <br/>
 
@@ -69,8 +67,10 @@ Open to conversations about front-end engineering, design systems and AI-powered
 
 **[Reach me on LinkedIn →](https://linkedin.com/in/herikrodrigues)**
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f3f46,50:1c1c20,100:0d0d0f&height=110&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f3f46,50:1c1c20,100:0d0d0f&height=90&section=footer" alt="" />
 
 </div>
