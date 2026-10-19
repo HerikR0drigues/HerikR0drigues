@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="t d">
+  <title id="t">Herik Rodrigues, Front-end Engineer</title>
+  <desc id="d">Banner with name, role and stack: JavaScript, TypeScript, Vue and React.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#09090b"/>
+      <stop offset="0.55" stop-color="#131316"/>
+      <stop offset="1" stop-color="#1c1c20"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="1010" cy="60" r="460" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="120" cy="440" r="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a1aa" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#a1a1aa" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="80" y1="150" x2="760" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a1a1aa"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="290" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <clipPath id="round"><rect width="1280" height="420" rx="22"/></clipPath>
+  </defs>
+
+  <style>
+    .float { animation: float 6s ease-in-out infinite; }
+    .float2 { animation: float 7s ease-in-out -2s infinite; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+    .sans { font-family: Inter, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: "SFMono-Regular", Menlo, Consolas, monospace; }
+  </style>
+
+  <g clip-path="url(#round)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect width="1280" height="420" fill="url(#dots)"/>
+    <rect width="1280" height="420" fill="url(#glowA)"/>
+    <rect width="1280" height="420" fill="url(#glowB)"/>
+    <rect x="0" y="416" width="1280" height="4" fill="url(#line)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="419" rx="21.5" stroke="#ffffff" stroke-opacity="0.09"/>
+
+  <!-- Left: text -->
+  <rect x="80" y="86" width="226" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.16"/>
+  <circle class="pulse" cx="102" cy="103" r="4.5" fill="#e4e4e7"/>
+  <text class="sans" x="120" y="108" font-size="12.5" font-weight="600" letter-spacing="2.2" fill="#d4d4d8">FRONT-END ENGINEER</text>
+
+  <text class="sans" x="78" y="212" font-size="82" font-weight="800" letter-spacing="-2.5" fill="url(#name)">Herik Rodrigues</text>
+
+  <text class="sans" x="80" y="266" font-size="25" font-weight="500" fill="#a1a1aa">JavaScript  ·  TypeScript  ·  Vue  ·  React</text>
+  <text class="sans" x="80" y="308" font-size="18" fill="#71717a">Building fast, accessible and scalable interfaces.</text>
+  <rect x="80" y="336" width="64" height="3" rx="1.5" fill="#fafafa" fill-opacity="0.85"/>
+
+  <!-- Right: floating UI card -->
+  <g transform="translate(900 82)">
+    <g class="float">
+      <rect width="296" height="250" rx="18" fill="#18181b" fill-opacity="0.92" filter="url(#shadow)"/>
+      <rect x="0.5" y="0.5" width="295" height="249" rx="17.5" stroke="url(#stroke)"/>
+      <circle cx="26" cy="26" r="5" fill="#52525b"/>
+      <circle cx="44" cy="26" r="5" fill="#3f3f46"/>
+      <circle cx="62" cy="26" r="5" fill="#3f3f46"/>
+      <rect x="0" y="48" width="296" height="1" fill="#ffffff" fill-opacity="0.07"/>
+
+      <rect x="24" y="70" width="64" height="8" rx="4" fill="#fafafa" fill-opacity="0.9"/>
+      <rect x="96" y="70" width="86" height="8" rx="4" fill="#a1a1aa" fill-opacity="0.8"/>
+      <rect x="44" y="94" width="110" height="8" rx="4" fill="#71717a"/>
+      <rect x="162" y="94" width="48" height="8" rx="4" fill="#d4d4d8" fill-opacity="0.8"/>
+      <rect x="44" y="118" width="76" height="8" rx="4" fill="#d4d4d8" fill-opacity="0.8"/>
+      <rect x="128" y="118" width="100" height="8" rx="4" fill="#71717a"/>
+      <rect x="44" y="142" width="132" height="8" rx="4" fill="#52525b"/>
+      <rect x="24" y="166" width="38" height="8" rx="4" fill="#fafafa" fill-opacity="0.9"/>
+
+      <rect x="24" y="194" width="118" height="34" rx="17" fill="#fafafa"/>
+      <text class="sans" x="83" y="216" font-size="13" font-weight="700" text-anchor="middle" fill="#09090b">Ship it</text>
+      <rect x="152" y="194" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.18"/>
+      <text class="sans" x="198" y="216" font-size="13" font-weight="600" text-anchor="middle" fill="#d4d4d8">Preview</text>
+    </g>
+  </g>
+
+  <!-- Floating chip -->
+  <g transform="translate(1168 56)">
+    <g class="float2">
+      <circle r="28" fill="#18181b" stroke="#ffffff" stroke-opacity="0.18"/>
+      <text class="mono" y="6" font-size="17" font-weight="700" text-anchor="middle" fill="#e4e4e7">&lt;/&gt;</text>
+    </g>
+  </g>
+</svg>
