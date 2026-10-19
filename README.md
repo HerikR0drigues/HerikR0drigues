@@ -1,13 +1,60 @@
-# About Me:
-I am a Junior Front-end Developer at AAWZ Partners, focused on building modern, responsive, and user-friendly web interfaces. I work mainly with JavaScript and Vue.js, always aiming to deliver clean, well-structured, and maintainable code.<br><br>I enjoy turning ideas into real products and continuously improving my technical skills while learning best practices in front-end development, application architecture, and user experience. I have experience working in team environments, collaborating with designers and developers to create efficient and scalable solutions.<br><br>Beyond technical knowledge, I value communication, teamwork, adaptability, and proactivity. I am always open to learning, receiving feedback, and taking on new challenges that help me grow as a developer and as a professional.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Herik%20Rodrigues&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Engineer%20%C2%B7%20JavaScript%20%2F%20TypeScript%20%C2%B7%20Vue%20%C2%B7%20React&descSize=16&descAlignY=60" alt="Herik Rodrigues - Front-end Engineer" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/herikrodrigues) 
+**I build fast, accessible and scalable web interfaces, from design system to production.**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HerikR0drigues&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HerikR0drigues&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HerikR0drigues&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/herikrodrigues)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HerikR0drigues)
+![Location](https://img.shields.io/badge/Florian%C3%B3polis%20%C2%B7%20Brazil-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+---
+
+## 👋 About
+
+Front-end Engineer at **AAWZ Partners**, specialized in **JavaScript / TypeScript**, **Vue.js** and **React**. I turn complex products into clean, responsive and maintainable interfaces, working side by side with designers, back-end engineers and product.
+
+I care about the things that make a front-end last: component architecture, design systems, performance, testing and a great user experience.
+
+## 🚀 What I do
+
+- **AI platform front-end:** built the interface of an AI platform integrated with the financial market, CRM and internal tools, consuming REST APIs and agent/worker back-ends.
+- **CRM for investment advisors:** designed and built a CRM used by investment consultants and advisors, and I support the tooling software for this audience.
+- **Code review and UX guidance:** invited by the CTO to review code and share UX recommendations with the team.
+- **Recognized performance:** highlighted as a top performer in my area for two consecutive semesters.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css,tailwind,vite,jest,docker,git,figma&perline=12" alt="Tech stack" />
+
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+| | |
+|---|---|
+| **Languages** | JavaScript, TypeScript, HTML, CSS |
+| **Frameworks** | Vue.js, React |
+| **UI** | Vuetify, Tailwind CSS, design systems, reusable components |
+| **Quality & Tools** | Jest, Git, Docker, Vite |
+
+## 🎯 Currently
+
+- 📘 Deepening **React + TypeScript** (typed hooks, Context API, state management, micro frontends)
+- 🧩 Building a personal project with **React, TypeScript, Tailwind and Zustand**
+- 🤖 Exploring how AI changes front-end work and UX
+
+## 📫 Let's connect
+
+Open to conversations about front-end engineering, design systems and AI-powered products.
+**[Reach me on LinkedIn →](https://linkedin.com/in/herikrodrigues)**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="" />
+
+</div>
